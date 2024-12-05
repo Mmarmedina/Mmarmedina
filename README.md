@@ -2,7 +2,7 @@ About me:
 
 📚 Full Stack Web Developer, focused on Angular and .NET.
 
-🖥️ I currently work as a Junior Fullstack Developer en Bravent.
+🖥️ I currently work as a Junior Fullstack Developer at Bravent.
 
 ✅ For over ten years, I've been designed and created websites using WordPress, which has given me a 360-degree understanding of how to create and manage digital products (design, usability, performance, content creation, etc.).
 
